@@ -1,0 +1,13 @@
+{
+    "log": {
+        "level": "debug"
+            /*
+            "loggly" : {
+                "subdomain" : "your subdomain",
+                "token" : "your token",
+                "tags" : [],
+                "json": true
+            }
+            */
+    }
+}

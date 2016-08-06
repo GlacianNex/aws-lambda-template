@@ -1,0 +1,8 @@
+{
+    "aws": {
+        "region": "us-east-1", // Your region will go here
+        "timeout": 10, // Lambda timeout
+        "memory": 512, // Lambda memory footprint
+        "name": "<<Name of your lambda>>" // Lambda name
+    }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "aws-lambda-template",
+  "version": "1.0.0",
+  "description": "Template for new AWS Lambda project. It has all the tools you will need to deploy, run and update your lambda. As well as all folder structure for configuration and promises.",
+  "dependencies": {
+    "aws-sdk": "*",
+    "config": "*",
+    "q": "*",
+    "winston-loggly": "*",
+    "winston": "*"
+  },
+  "devDependencies": {
+    "babel-eslint": "*",
+    "chai": "*",
+    "eslint": "*",
+    "eslint-plugin-react": "*",
+    "eslint-config-airbnb": "*",
+    "grunt": "*",
+    "grunt-aws-lambda": "*",
+    "grunt-mocha-test": "*",
+    "mocha": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GlacianNex/aws-lambda-template.git"
+  },
+  "keywords": [
+    "template",
+    "aws",
+    "lambda"
+  ],
+  "author": "Igor Chernyy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GlacianNex/aws-lambda-template/issues"
+  },
+  "homepage": "https://github.com/GlacianNex/aws-lambda-template#readme"
+}
