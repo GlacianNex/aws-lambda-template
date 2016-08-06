@@ -4,7 +4,6 @@
         "react"
     ],
     "rules": {
-        "linebreak-style": 0,
         "indent": ["error", 4],
         "eol-last": 0,
         "strict": 0,
